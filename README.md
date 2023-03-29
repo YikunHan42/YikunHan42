@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning **Complex System**
 
-📫 How to reach me **yikunhan42@gmail.com**
+📫 How to reach me **yikunhan@umich.edu**
 
 📄 Know about my experiences [Homepage](https://www.yikunhan.me)
 
