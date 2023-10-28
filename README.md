@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yikun Han</h1><h3 align="center">An amateur programmer</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=yikunhan42&label=Profile%20views&color=0e75b6&style=flat" alt="yikunhan42" /> </p>
 
-🌱 I’m currently learning **Complex System**
+🌱 I’m currently working on **Machine Olfaction**
 
 📫 How to reach me **yikunhan@umich.edu**
 
