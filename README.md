@@ -7,7 +7,7 @@
 
 🌱 I’m currently working on **AI for Science**  
 📫 Reach me at **yikunh2@illinois.edu**  
-📄 Learn more about my experiences: [Homepage](https://yikunhan.me/)
+📄 Learn more about my experiences: [Homepage](https://yikunhan42.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
